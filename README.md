@@ -71,7 +71,6 @@ Execute o notebook ou script principal
 
 ---
 
-```md id="viz1"
 ## 📊 Visualizações
 
 O projeto inclui gráficos interativos para análise da distribuição de clientes e taxa de cancelamento (churn), facilitando a identificação de padrões.
