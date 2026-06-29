@@ -71,17 +71,12 @@ Execute o notebook ou script principal
 
 ---
 
-## 3. 📊 (OPCIONAL, mas MUITO forte) Visualizações
-Como você usou Plotly, isso ajuda MUITO:
-
 ```md id="viz1"
 ## 📊 Visualizações
 
 O projeto inclui gráficos interativos para análise da distribuição de clientes e taxa de cancelamento (churn), facilitando a identificação de padrões.
 
 <img width="960" height="450" alt="newplot" src="https://github.com/user-attachments/assets/a88ed9d8-c1a0-43a6-9b5e-f6306d294491" />
-
-
 
 ```
 ## 👨‍💻 Autor
