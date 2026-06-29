@@ -62,7 +62,7 @@ README.md
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/mcamposdev/analise-de-dados-python.git
 ```
 2. Instale as dependências:
 pip install pandas plotly
@@ -78,6 +78,11 @@ Como você usou Plotly, isso ajuda MUITO:
 ## 📊 Visualizações
 
 O projeto inclui gráficos interativos para análise da distribuição de clientes e taxa de cancelamento (churn), facilitando a identificação de padrões.
+
+<img width="960" height="450" alt="newplot" src="https://github.com/user-attachments/assets/a88ed9d8-c1a0-43a6-9b5e-f6306d294491" />
+
+
+
 ```
 ## 👨‍💻 Autor
 
